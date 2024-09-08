@@ -1,6 +1,6 @@
 asttokens
 Flask
-gunicorn0
+gunicorn
 blinker
 certifi7.4
 charset-normalizer
